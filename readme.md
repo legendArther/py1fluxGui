@@ -1,7 +1,8 @@
-![screenshot](src/example.png)
-# Flux Image Generator
+# Image Generator
 
 This Image Generator is a Python application that allows users to generate images using the `flux-schnell` model from Replicate's API. The tool provides a GUI for setting prompts, aspect ratios, output quantity, and quality, and then displays generated images within the application.
+
+![screenshot](src/example.png)
 
 ## Features
 
