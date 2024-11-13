@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-![Alt Text](./src/example.png)
-![screenshot](./src/example.png)
-![screenshot](src/example.png)
-=======
 # Image Generator
 
 This Image Generator is a Python application that allows users to generate images using the `flux-schnell` model from Replicate's API. The tool provides a GUI for setting prompts, aspect ratios, output quantity, and quality, and then displays generated images within the application.
