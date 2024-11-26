@@ -27,4 +27,3 @@ Install any missing packages via pip:
 
 ```bash
 pip install replicate requests pillow python-dotenv
->>>>>>> daa07b7ec0adbb91667cbd95938cc74261d9329d
